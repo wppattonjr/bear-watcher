@@ -1,5 +1,6 @@
 ## Project - Bear Watcher
 
+![Bear Watcher - Animated GIF](https://user-images.githubusercontent.com/63669713/90984044-2fbbfd80-e538-11ea-8d41-b6fc1bf3a9b1.gif)
 
 ## Introduction
 Each year between July and September brown bears in the Katmai National Park congregate along the Brooks River. This river is one of the main rivers that Sockeye Salmon swim up to spawn. The brown bears wait in the shallows of the river and catch the salmon as they jump over rocks
