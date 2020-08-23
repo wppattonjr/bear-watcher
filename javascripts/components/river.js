@@ -5,7 +5,7 @@ const buildBearCards = (array) => {
         `<div class="card" style="width: 18rem;">
         <img src="${bears.bearImage}" class="card-img-top" alt="image of bear">
         <div class="card-body">
-        <h3>${bears.bearName}</h3>
+        <h5>${bears.bearName}</h5>
       </div>
     </div>`
     )});
