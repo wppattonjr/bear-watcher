@@ -1,5 +1,6 @@
 ## Project - Bear Watcher
 
+<img width="1792" alt="Screen Shot 2020-08-23 at 12 23 35 PM" src="https://user-images.githubusercontent.com/63669713/90984595-8b3bba80-e53b-11ea-85fc-10d97cb521bc.png">
 
 
 ![Bear Watcher - Animated GIF](https://user-images.githubusercontent.com/63669713/90984044-2fbbfd80-e538-11ea-8d41-b6fc1bf3a9b1.gif)
