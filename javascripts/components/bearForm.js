@@ -27,7 +27,7 @@ const submitButtonClick = () => {
            bearImage: bearImage
        })
 
-       console.log(bearsArray);
+       
        clearOutForm();
        buildBearCards(bearsArray);
    })
